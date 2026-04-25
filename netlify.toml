@@ -1,0 +1,3 @@
+# Statische Site, kein Build-Step
+[build]
+  publish = "."
